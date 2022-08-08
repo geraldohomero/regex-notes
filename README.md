@@ -72,3 +72,10 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 - `\r` é carriage return.
 - `\n` é newline.
 - `\f` é form feed.
+
+### Letras
+
+- `[A-Z]` significa de A até Z, sempre maiúscula.
+- `[a-z]` significa de a até z, sempre minúscula,
+- `[A-Za-z]` significa A-Z ou a-z.
+- `[abc]` significa a, b ou c.
