@@ -10,11 +10,9 @@ Expressões Regulares (Regex)
 Por exemplo:
 
     `a{3}` 
+ 
+    `\d*
     
-    letra a 3 vezes.
-    `\d*` 
-    
-    um digito zero ou mais vezes
 
 Lembrando também, se quisermos procurar pelo `*` ou `.` literalmente (sem significado especial), devemos utilizar o caractere `\`
 
