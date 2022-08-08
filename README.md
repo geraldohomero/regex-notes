@@ -57,10 +57,13 @@ No caso do CPF sem pontos e somente números
 
 quando não tiver "-" e sim um "."
 
-podemos definir uma classe de caracteres que podem aparecer nessa posição usando [ ]
+podemos definir uma classe de caracteres que podem aparecer nessa posição usando `[ ]`
+
 `\d{3}\.?\d{3}\.?\d{3}[-.]?\d{2}`
+
 não sendo usar o `\` para definir o meta-char `.` (ponto) pois ele tem significado literal dentro de uma classe
 
 `\d` é igual à `[0-9]`
 Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
+
 `[1-36-9]`
