@@ -1,6 +1,7 @@
 # Regex Notes
 
 Expressões Regulares (Regex)
+
 `.` (meta-char) pode ser qualquer coisa
 
 `.` o "ponto" que significa qualquer char
