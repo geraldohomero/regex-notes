@@ -70,5 +70,5 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 - O primeiro caractere é um espaço branco.
 - `\t` é um tab.
 - `\r` é carriage return.
-- `\n é newline.
+- `\n` é newline.
 - `\f` é form feed.
