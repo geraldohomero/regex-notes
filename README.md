@@ -25,7 +25,7 @@ Quantifier
 `\d{3}\.\d{3}\.\d{3}\-\d{2}`
 
 
-IPs de PC
+IPs de PC podem ter números variados:
 
 - 126.1.112.34
 - 128.126.12.244
