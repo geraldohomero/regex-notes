@@ -46,7 +46,8 @@ Uma classe de caracteres predefinida é `\d`, que significa qualquer dígito. Ex
  - `.` é um meta-char que significa qualquer char.
  - Com `\` podemos escapar meta-chars, por exemplo `\..`
 
-No caso do CPF sem pontos e somente números
+No caso do CPF sem pontos e somente números (12312312300)
+
 `\d{3}\.{0,1}\d{3}\.?\d{3}\-?\d{2}`
 
 `?` demonstra que o ponto pode ser opcional. Também pode ser usado com o quantifier `.{0,1}`
