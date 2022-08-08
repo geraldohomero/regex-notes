@@ -64,3 +64,11 @@ não sendo usar o `\` para definir o meta-char `.` (ponto) pois ele tem signific
 Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 
 `[1-36-9]`
+
+### Trabalhando com espaços
+
+- O primeiro caractere é um espaço branco.
+- `\t` é um tab.
+- `\r` é carriage return.
+- `\n é newline.
+- `\f` é form feed.
