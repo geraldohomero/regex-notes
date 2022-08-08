@@ -10,7 +10,8 @@ Expressões Regulares (Regex)
 Por exemplo:
 
 `a{3}`
- `\d*
+
+`\d*`
     
 
 Lembrando também, se quisermos procurar pelo `*` ou `.` literalmente (sem significado especial), devemos utilizar o caractere `\`
