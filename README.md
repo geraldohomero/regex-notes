@@ -137,4 +137,4 @@ Quantifier `+` + `?` torna-o preguiçoso
 
 - Exemplo com Regex não-fixa
 
-`var exp = new RegExp("(\\d\\d)(\\w)");`
+`var exp = new RegExp("(\\d\\d)(\\w)", "g");`
