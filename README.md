@@ -144,3 +144,5 @@ Quantifier `+` + `?` torna-o preguiçoso
 #### Exemplo:
 
 - `"pattern"= ^(?=.*[a-z](?=.*[A-Z](?=.*[0-9](?!=.*[ !@#$%^&*_-=-+]).{6,12}$`
+
+Descrição para o formato esperado `"title"=descrição`
