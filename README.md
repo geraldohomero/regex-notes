@@ -104,7 +104,7 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
  
  ### Âncora
  
- Uma forma de encontrar uma posição. 
+ Uma forma de encontrar uma posição. Existem âncoras predefinidas que selecionam uma posição dentro do alvo
  
  - `\b`- word boundary (limite de palavras) - Não pega word-char
  - `\b` no início e no final
