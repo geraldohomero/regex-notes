@@ -106,5 +106,6 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
  
  Uma forma de encontrar uma posição. 
  
- - `\b`- word boundary (limite de palavras)
+ - `\b`- word boundary (limite de palavras) - Não pega word-char
+ - `\b` no início e no final
 
