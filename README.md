@@ -91,3 +91,13 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 - `[a-z]` significa de a até z, sempre minúscula,
 - `[A-Za-z]` significa A-Z ou a-z.
 - `[abc]` significa a, b ou c.
+
+
+- Podemos definir facilmente a classe de qualquer caractere com o `[A-Z]`.
+
+- Conhecemos todos os quantifiers como `?`, `+`, `*` e `{n}`.
+
+- `\s` significa whitespace e é um atalho para `[ \t\r\n\f]`.
+
+ - `\w` significa word char e é uma atalho para `[A-Za-z0-9_]`.
+
