@@ -134,3 +134,7 @@ Quantifier `+` + `?` torna-o preguiçoso
 `var regex = /(\d\d)(\w)/g;` //2 dígitos e 1 word char, dois grupos
 
 `var resultado = regex.exec('11a22b33c ');`
+
+- Exemplo com Regex não-fixa
+
+`var exp = new RegExp("(\\d\\d)(\\w)");`
