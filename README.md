@@ -65,6 +65,14 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 
 `[1-36-9]`
 
+
+`? - zero ou uma vez.
+`*` - zero ou mais vezes.
+`+` - uma ou mais vezes.
+`{n} - exatamente n vezes.
+{n,}` - no mínimo n vezes.
+`{n,m}` - no mínimo n vezes, no máximo m vezes.
+
 ### Trabalhando com espaços
 
 - O primeiro caractere é um espaço branco.
@@ -74,9 +82,12 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 - `\f` é form feed.
 - `\s`é um white space
 
+`\s+` igual à uma ou mais vezes
+
 ### Letras
 
 - `[A-Z]` significa de A até Z, sempre maiúscula.
+- `[A-Zç]`para caracteres especiais.
 - `[a-z]` significa de a até z, sempre minúscula,
 - `[A-Za-z]` significa A-Z ou a-z.
 - `[abc]` significa a, b ou c.
