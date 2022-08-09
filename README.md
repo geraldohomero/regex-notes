@@ -116,3 +116,7 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 - `()`
 - `(?:)` retirar do resultado da execução do regex (non-capturing group)
     - `([0123]?\d)\s+(?:de\s+)?([A-Z][a-zç]{1,8})\s+(?:de\s+)?([12]\d{3})` - Data formato: 00 de Mês de 19(20)xx
+
+### Greed
+
+Quantifier `+` + `?` torna-o preguiçoso
