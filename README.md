@@ -138,3 +138,9 @@ Quantifier `+` + `?` torna-o preguiçoso
 - Exemplo com Regex não-fixa
 
 `var exp = new RegExp("(\\d\\d)(\\w)", "g");`
+
+### Validação senha HTML5
+
+#### Exemplo:
+
+- `"pattern"= ^(?=.*[a-z](?=.*[A-Z](?=.*[0-9](?!=.*[ !@#$%^&*_-=-+]).{6,12}$`
