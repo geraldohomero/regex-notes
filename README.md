@@ -43,7 +43,7 @@ Regex, ou expressões regulares, é uma linguagem para encontrar padrões de tex
 Uma classe de caracteres predefinida é `\d`, que significa qualquer dígito. Existem vários meta-char, como `.` ou `*`. Existem quantifiers que definem quantas vezes um caractere deve aparecer:
  - `{1}` é um quantifier que significa uma vez.
  - `*` é um quantifier que significa zero, uma ou mais vezes
- - `.` é um meta-char que significa qualquer char.
+ - `.` é um meta-char que significa qualquer caracter.
  - Com `\` podemos escapar meta-chars, por exemplo `\..`
 
 No caso do CPF sem pontos e somente números (12312312300)
@@ -108,4 +108,5 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
  
  - `\b`- word boundary (limite de palavras) - Não pega word-char
  - `\b` no início e no final
-
+ - `^` - "no início do target (alvo)"
+ - `$`- "no final do target (alvo)"
