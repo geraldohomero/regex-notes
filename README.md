@@ -66,10 +66,10 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 `[1-36-9]`
 
 
-- `? - zero ou uma vez.
+- `?` - zero ou uma vez.
 - `*` - zero ou mais vezes.
 - `+` - uma ou mais vezes.
-- `{n} - exatamente n vezes.
+- `{n}` - exatamente n vezes.
 - `{n,}` - no mínimo n vezes.
 - `{n,m}` - no mínimo n vezes, no máximo m vezes.
 
