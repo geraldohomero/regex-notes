@@ -63,7 +63,7 @@ não sendo usar o `\` para definir o meta-char `.` (ponto) pois ele tem signific
 `\d` é igual à `[0-9]`
 Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 
--`[1-36-9]`
+`[1-36-9]`
 
 
 - `?` - zero ou uma vez.
