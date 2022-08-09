@@ -101,4 +101,10 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 - `\s` significa whitespace e é um atalho para `[ \t\r\n\f]`.
 
  - `\w` significa word char e é uma atalho para `[A-Za-z0-9_]`.
+ 
+ ### Âncora
+ 
+ Uma forma de encontrar uma posição. 
+ 
+ - `\b`- word boundary (limite de palavras)
 
