@@ -31,7 +31,7 @@ IPs de PC podem ter números variados:
 - 128.126.12.244
 - 192.168.0.34
 
-`\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}`
+    - `\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}`
 
 - Telefone: `\(\d{2}\) \d{4}-\d{4}`
 - CEP: `\d{5}-\d{3}`
@@ -63,7 +63,7 @@ não sendo usar o `\` para definir o meta-char `.` (ponto) pois ele tem signific
 `\d` é igual à `[0-9]`
 Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 
-`[1-36-9]`
+    - `[1-36-9]`
 
 
 - `?` - zero ou uma vez.
@@ -81,8 +81,7 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 - `\n` é newline.
 - `\f` é form feed.
 - `\s`é um white space
-
-`\s+` igual à uma ou mais vezes
+    - `\s+` igual à uma ou mais vezes
 
 ### Letras
 
