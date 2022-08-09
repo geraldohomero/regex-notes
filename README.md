@@ -92,6 +92,7 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 - `[A-Za-z]` significa A-Z ou a-z.
 - `[abc]` significa a, b ou c.
 
+### Recapitulando
 
 - Podemos definir facilmente a classe de qualquer caractere com o `[A-Z]`.
 
