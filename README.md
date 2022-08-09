@@ -72,6 +72,7 @@ Qual é a classe correta para definir os números entre 1 e 3 E 6 e 9?
 - `\r` é carriage return.
 - `\n` é newline.
 - `\f` é form feed.
+- `\s`é um white space
 
 ### Letras
 
