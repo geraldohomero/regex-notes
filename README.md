@@ -14,7 +14,6 @@ Por exemplo:
 
 `\d*`
     
-
 Lembrando também, se quisermos procurar pelo `*` ou `.` literalmente (sem significado especial), devemos utilizar o caractere `\`
 
 CPF: 123.123.123-00
