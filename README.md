@@ -1,7 +1,7 @@
 # Regex Notes
 
-[Regex CPF](https://github.com/geraldohomero/regex-notes/blob/main/regexCPF.md)
-[Regex Tester](https://github.com/geraldohomero/regex)
+- [Regex CPF](https://github.com/geraldohomero/regex-notes/blob/main/regexCPF.md)
+- [Regex Tester](https://github.com/geraldohomero/regex)
 
 ## Expressões Regulares (Regex)
 
