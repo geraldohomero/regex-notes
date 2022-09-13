@@ -1,8 +1,9 @@
 # Regex Notes
 
 [Regex CPF](https://github.com/geraldohomero/regex-notes/blob/main/regexCPF.md)
-[Regex Tester](https://github.com/geraldohomero/regex]
-Expressões Regulares (Regex)
+[Regex Tester](https://github.com/geraldohomero/regex)
+
+## Expressões Regulares (Regex)
 
 `.` (meta-char) pode ser qualquer coisa
 
