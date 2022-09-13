@@ -1,5 +1,7 @@
 # Regex Notes
 
+[Regex CPF](https://github.com/geraldohomero/regex-notes/blob/main/regexCPF.md)
+
 Expressões Regulares (Regex)
 
 `.` (meta-char) pode ser qualquer coisa
