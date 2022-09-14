@@ -6,7 +6,6 @@
 ## Expressões Regulares (Regex)
 
 `.` (meta-char) pode ser qualquer coisa
-
 `.` o "ponto" que significa qualquer char
 `*` o asterisco que serve para definir uma quantidade de chars, zero ou mais vezes
 {e } as chaves que servem para definir uma quantidade de caracteres específicas que é desejado encontrar
