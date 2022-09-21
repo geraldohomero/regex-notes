@@ -11,7 +11,7 @@
 
 `*` o asterisco que serve para definir uma quantidade de chars, zero ou mais vezes
 
-{e } as chaves que servem para definir uma quantidade de caracteres específicas que é desejado encontrar
+`{` e `}` as chaves que servem para definir uma quantidade de caracteres específicas que é desejado encontrar
 
 Por exemplo:
 
