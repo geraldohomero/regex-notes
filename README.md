@@ -127,7 +127,6 @@ Quantifier `+` + `?` torna-o preguiçoso
 - `/1`
 `/` seguido do número do grupo de referência
 
-
 ### JavaScript
 
 - Exemplo com Regex fixa:
