@@ -28,7 +28,6 @@ Quantifier
 
 `\d{3}\.\d{3}\.\d{3}\-\d{2}`
 
-
 IPs de PC podem ter números variados:
 
 - 126.1.112.34
@@ -40,8 +39,6 @@ IPs de PC podem ter números variados:
 - Telefone: `\(\d{2}\) \d{4}-\d{4}`
 - CEP: `\d{5}-\d{3}`
 - CNPj: `\d{2}\.\d{3}\.\d{3}\/\d{4}\-\d{2}`
-
-
 
 Regex, ou expressões regulares, é uma linguagem para encontrar padrões de texto. Sendo uma linguagem independente, existem interpretadores para a maioria das plataformas de desenvolvimento, como JavaScript, C#, Python ou Ruby. 
 Uma classe de caracteres predefinida é `\d`, que significa qualquer dígito. Existem vários meta-char, como `.` ou `*`. Existem quantifiers que definem quantas vezes um caractere deve aparecer:
