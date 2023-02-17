@@ -57,7 +57,7 @@ No caso do CPF sem pontos e somente números (12312312300)
 
 quando não tiver "-" e sim um "."
 
-podemos definir uma classe de caracteres que podem aparecer nessa posição usando `[ ]`
+Podemos definir uma classe de caracteres que podem aparecer nessa posição usando `[ ]`
 
 `\d{3}\.?\d{3}\.?\d{3}[-.]?\d{2}`
 
@@ -145,6 +145,8 @@ Quantifier `+` + `?` torna-o preguiçoso
 
 #### Exemplo:
 
-- `"pattern"= ^(?=.*[a-z](?=.*[A-Z](?=.*[0-9](?!=.*[ !@#$%^&*_-=-+]).{6,12}$`
+```html
+"pattern"= ^(?=.*[a-z](?=.*[A-Z](?=.*[0-9](?!=.*[ !@#$%^&*_-=-+]).{6,12}$`
+```
 
 Descrição para o formato esperado `"title"=descrição`
